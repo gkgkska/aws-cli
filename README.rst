@@ -10,7 +10,6 @@ aws-cli
    :target: https://gitter.im/aws/aws-cli
    :alt: Gitter
 
-
 This package provides a unified command line interface to Amazon Web Services.
 
 The aws-cli package works on Python versions:
